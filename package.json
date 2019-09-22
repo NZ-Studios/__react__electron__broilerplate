@@ -47,9 +47,9 @@
     "wait-on": "^3.3.0"
   },
   "description": "gonna be something...",
-  "author": "Austin Lynes",
+  "author": "__author__",
   "build": {
-    "appId": "com.mirra-engine"
+    "appId": "<com.appName>"
   },
   "main": "public/electron.js",
   "homepage": "./"
