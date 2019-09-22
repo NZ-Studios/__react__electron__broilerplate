@@ -7,7 +7,7 @@ web applications on your Desktop!
 ```
 ## Make Applications Yourself
 ```
- [ ] clone this repo. 
+ [ ] clone this repo.  `git clone https://github.com/NZ-Studios/__react__electron__broilerplate.git name-of-app`
  [ ] cd into <your project>.
  [ ] `yarn install` or `npx install`.
  [ ] add any dependencies, already includes, some typescript and node-sass as the default for styling.
