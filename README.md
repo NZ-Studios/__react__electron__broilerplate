@@ -11,6 +11,12 @@ web applications on your Desktop!
  [ ] cd into <your project>.
  [ ] `yarn install` or `npx install`.
  [ ] add any dependencies, already includes, some typescript and node-sass as the default for styling.
+ ```
+ ### package.json
+ [ ] change `"name": "__template__" ` --> name of your app 
+ [ ] change `"author": "__author__" ` --> apps author name 
+ [ ] change `"appId": "<com.appName>" ` --> app com.appName 
+ ```
  [ ] `yarn start` 
  
  ```
